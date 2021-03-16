@@ -12,30 +12,44 @@ And generate palette image to pallete folder.
 
 ## Example 
 
+### Big Yellow Taxi
+
 <p style="display:flex;flex-direction:column;">
 <img src="./img/big_yellow_taxi.jpg" width="256px">
 <img src="./pallete/big_yellow_taxi.jpg" width="256px">
 </p>
+
+### Bridge Over Troubled Water
 
 <p style="display:flex;flex-direction:column;">
 <img src="./img/bridge_over_troubled_water.jpg" width="256px">
 <img src="./pallete/bridge_over_troubled_water.jpg" width="256px">
 </p>
 
+### Octopus's Garden
+
 <p style="display:flex;flex-direction:column;">
 <img src="./img/octopus_s_garden.jpg" width="256px">
 <img src="./pallete/octopus_s_garden.jpg" width="256px">
 </p>
+
+
+### Purple Haze
 
 <p style="display:flex;flex-direction:column;">
 <img src="./img/purple_haze.jpg" width="256px">
 <img src="./pallete/purple_haze.jpg" width="256px">
 </p>
 
+
+### Stairway To Heaven
+
 <p style="display:flex;flex-direction:column;">
 <img src="./img/stairway_to_heaven.jpg" width="256px">
 <img src="./pallete/stairway_to_heaven.jpg" width="256px">
 </p>
+
+### (Imagine) There's No Heaven
 
 <p style="display:flex;flex-direction:column;">
 <img src="./img/there_s_no_heaven.jpg" width="256px">
